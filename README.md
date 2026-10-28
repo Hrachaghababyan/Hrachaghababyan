@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Hrachya 👋
 
-<!--
-**Hrachaghababyan/Hrachaghababyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Second-Year Software Engineering Student & Aspiring Backend Developer.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** C++, JavaScript, C#, SQL
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** PostgreSQL
+- **Environment & Tools:** Linux (Mint/Ubuntu), Docker, Git/GitHub, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- Deepening knowledge in C++ and Computer Architecture
+- Building robust backend APIs using Node.js, Express & PostgreSQL
+- Virtualization & Linux environments for development
+
+### 📫 How to reach me
+- **LinkedIn:** [Hrachya Aghababyan](https://linkedin.com)
+- **Email:** hrachyaaghababyan@gmail.com
